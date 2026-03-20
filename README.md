@@ -21,7 +21,7 @@ This project demonstrates Python scripting, cybersecurity concepts, and a simple
 
 1. Make sure Python 3.x is installed  
 2. Install required libraries:
-```bash
+``bash
 pip install pandas numpy scikit-learn
 
 3. Run the script:
