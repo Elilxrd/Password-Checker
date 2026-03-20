@@ -24,12 +24,17 @@ This project demonstrates Python scripting, cybersecurity concepts, and a simple
 ``bash
 pip install pandas numpy scikit-learn
 
+---
+
 3. Run the script:
 
 python password_checker_full.py
 
+---
 
 4. Input a password when prompted.
+
+---
 
 5. Optional ML: Include a passwords.csv file in the project folder with the following structure:
 
@@ -39,6 +44,8 @@ password,weak
 Admin123!,strong
 My$ecureP@ss,strong
 📌 Example Output
+
+---
 
 Without ML dataset:
 
@@ -55,6 +62,7 @@ Enter password: MyPass123!
 ML model accuracy on test set: 1.0
 [ML Prediction] Password strength: strong
 
+---
 
 🧠 What I Learned
 
@@ -66,6 +74,7 @@ Machine Learning: feature extraction, dataset handling, training a Random Forest
 
 Project workflow: combining Python scripts with ML and user-friendly output
 
+---
 
 🔧 Tools & Technologies
 
@@ -76,6 +85,8 @@ Libraries: pandas, numpy, scikit-learn
 IDE: Visual Studio
 
 Git & GitHub
+
+---
 
 
 ⚡ Next Steps / Improvements
